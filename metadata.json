@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cartoon Idea Generator",
+  "description": "A fun, cartoon-themed web app that uses Gemini to generate creative cartoon character ideas. Enter a topic and get a whimsical character description!",
+  "requestFramePermissions": []
+}
